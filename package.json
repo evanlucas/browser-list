@@ -1,6 +1,6 @@
 {
   "name": "browser-list",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Print all browsers installed",
   "dependencies": {
     "browser-launcher": "~0.3.4",
