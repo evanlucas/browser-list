@@ -7,10 +7,6 @@
     "cli-table": "~0.3.0",
     "nopt": "~3.0.0"
   },
-  "devDependencies": {
-    "mocha": "~1.18.2",
-    "should": "~3.3.1"
-  },
   "bin": {
     "browser-list": "./bin/cmd.js"
   },
