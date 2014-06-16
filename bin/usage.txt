@@ -1,0 +1,9 @@
+browser-list - list installed browsers
+
+  usage: browser-list [options]
+
+  options:
+    -h, --help                      show help and usage
+    -v, --version                   show version
+    -j, --json                      output in json
+    -n, --names                     only show browser names
