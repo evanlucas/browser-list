@@ -1,0 +1,31 @@
+{
+  "name": "browser-list",
+  "version": "0.0.0",
+  "description": "Print all browsers installed",
+  "dependencies": {
+    "browser-launcher": "~0.3.4",
+    "cli-table": "~0.3.0",
+    "nopt": "~3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "~3.3.1"
+  },
+  "bin": {
+    "browser-list": "./bin/cmd.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "browser",
+    "list"
+  ],
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/browser-list"
+  },
+  "homepage": "https://github.com/evanlucas/browser-list",
+  "bugs": {
+    "url": "https://github.com/evanlucas/browser-list/issues"
+  }
+}
